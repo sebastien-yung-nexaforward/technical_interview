@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,signup_date
+1,Marie,Durand,marie.durand@example.fr,+33 6 12 34 56 78,2023-11-10
+2,Jean,Martin,jean.martin@example.com,+33 6 23 45 67 89,2023-12-02
+3,Sophie,Bernard,sophie.bernard@example.fr,+33 6 34 56 78 90,2024-01-05
+4,Luc,Robert,luc.robert@yahoo.com,+33 6 45 67 89 01,2024-02-20
+5,Claire,Petit,claire.petit@example.com,+33 6 56 78 90 12,2024-03-15

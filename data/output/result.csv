@@ -1,0 +1,10 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,email,phone,signup_date,full_name
+2,2,2024-01-20,Widget B,Gadgets,1,9.99,jean.martin@example.com,+33 6 23 45 67 89,2023-12-02,Jean MARTIN
+3,1,2024-02-05,Thingamajig A,Tools,3,5.49,marie.durand@example.fr,+33 6 12 34 56 78,2023-11-10,Marie DURAND
+5,4,2024-03-03,Gizmo A,Devices,4,29.99,luc.robert@yahoo.com,+33 6 45 67 89 01,2024-02-20,Luc ROBERT
+6,2,2024-03-10,Widget A,Gadgets,2,19.99,jean.martin@example.com,+33 6 23 45 67 89,2023-12-02,Jean MARTIN
+7,5,2024-03-18,Thingamajig B,Tools,6,4.75,claire.petit@example.com,+33 6 56 78 90 12,2024-03-15,Claire PETIT
+9,1,2024-04-12,Widget B,Gadgets,2,9.99,marie.durand@example.fr,+33 6 12 34 56 78,2023-11-10,Marie DURAND
+10,3,2024-04-18,Gizmo C,Devices,3,34.99,sophie.bernard@example.fr,+33 6 34 56 78 90,2024-01-05,Sophie BERNARD
+11,5,2024-05-05,Widget C,Gadgets,4,14.5,claire.petit@example.com,+33 6 56 78 90 12,2024-03-15,Claire PETIT
+12,2,2024-05-20,Thingamajig A,Tools,5,5.49,jean.martin@example.com,+33 6 23 45 67 89,2023-12-02,Jean MARTIN

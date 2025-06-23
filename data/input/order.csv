@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price
+1,1,,Widget A,Gadgets,2,19.99
+2,2,2024-01-20,Widget B,GADGETS,1,9.99
+3,1,2024-02-05,Thingamajig A,Tools,3,5.49
+4,3,2024-02-14,,Gadgets,5,14.5
+5,4,2024-03-03,Gizmo A,Devices,4,29.99
+6,2,2024-03-10,Widget A,Gadgets,2,19.99
+7,5,2024-03-18,Thingamajig B,Tools,6,4.75
+8,4,,Gizmo B,Devices,1,49.99
+9,1,2024-04-12,Widget B,Gadgets,2,9.99
+10,3,2024-04-18,Gizmo C,Devices,3,34.99
+11,5,2024-05-05,Widget C,Gadgets,4,14.5
+12,2,2024-05-20,Thingamajig A,TOOLS,5,5.49
