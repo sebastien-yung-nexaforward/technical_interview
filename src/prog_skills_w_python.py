@@ -2,4 +2,4 @@
 
 
 def tri():
-    pass 
+    pass

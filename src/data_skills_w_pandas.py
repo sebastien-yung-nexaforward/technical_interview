@@ -9,10 +9,10 @@ def main():
     # Check if Nan values
 
 
-    # Get total price of all orders
-
-
     # Count Nan values per columns
+
+
+    # Get total price of all orders
 
 
     # Remove Nan values
